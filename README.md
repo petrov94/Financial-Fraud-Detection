@@ -1,3 +1,4 @@
+Financial-Fraud-Detection
 This project explores several binary classification methods to distinguish between fraudulent and non-fraudulent transactions. Classical machine learning models such as K-nearest neighbors, Isolation Forest, Local Outlier Factor, and Logistic Regression were used as baselines. The dataset was sourced from Kaggle: Paysim1 dataset.
 
 A major challenge in fraud detection is the significant class imbalance, as fraud cases are a small subset of the data. Therefore, models specifically designed for unbalanced data were employed. The figure below illustrates the class distribution.
